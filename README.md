@@ -52,5 +52,3 @@ Actualment no disposo d'experiència laboral prèvia en entorns empresarials, pe
 * **📞Telèfon:** +34 657 67 41 62
 * **📧Correu electrònic:** maxer1468@gmail.com
 
-
-```
