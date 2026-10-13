@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Maxim Slobodyan
 **Estudiant de Sistemes Microinformàtics i Xarxes (SMX)**
 
@@ -56,3 +57,4 @@ Actualment no disposo d'experiència laboral prèvia en entorns empresarials, pe
 <!-- Apartat deixat en blanc tal com s'ha sol·licitat -->
 
 ```
+=======
