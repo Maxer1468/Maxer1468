@@ -1,6 +1,5 @@
 # Maxim Slobodyan
----
-![](/img/Gemini_Generated_Image_4t7grs4t7grs4t7g%20(1).png)
+
 ---
 **Estudiant de Sistemes Microinformàtics i Xarxes (SMX)**
 
