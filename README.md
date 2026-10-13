@@ -5,12 +5,12 @@
 
 ---
 
-## 1. Qui sóc❓👋
+## Qui sóc❓👋
 Sóc una persona treballadora, eficient i amb una gran motivació per créixer professionalment. Disposo d'una actitud positiva davant dels reptes diaris i destaca la meva capacitat d'aprenentatge ràpid en entorns dinàmics. Resideixo a Canet de Mar.
 
 ---
 
-## 2. Què estic estudiant i què vull aprendre❓📖
+## Què estic estudiant i què vull aprendre❓📖
 
 * **Què estic estudiant:** Actualment he finalitzat el primer curs del Cicle Formatiu de Grau Mitjà de Sistemes Microinformàtics i Xarxes. Prèviament, vaig completar amb l'ESO a l'Institut Lluís Domènech i Montaner l'any 2025.
 
@@ -18,7 +18,7 @@ Sóc una persona treballadora, eficient i amb una gran motivació per créixer p
 
 ---
 
-## 3. Les competències i tecnologies relacionades amb SMX🧠💻
+## Les competències i tecnologies relacionades amb SMX🧠💻
 Durant la meva formació en Sistemes Microinformàtics i Xarxes, estic desenvolupant competències tècniques essencials per al suport i manteniment d'infraestructures informàtiques:
 
 * **Coneixements bàsics:**
@@ -31,12 +31,12 @@ Durant la meva formació en Sistemes Microinformàtics i Xarxes, estic desenvolu
 
 ---
 
-## 4. Els meus projectes o pràctiques👷
+## Els meus projectes o pràctiques👷
 Actualment no disposo d'experiència laboral prèvia en entorns empresarials, però a través de la formació acadèmica en SMX duc a terme pràctiques orientades a la simulació de casos reals, resolució de fallades de sistemes, assemblatge de components i configuració de xarxes informàtiques de nivell inicial i intermedi.
 
 ---
 
-## 5. Interessos personals i objectius professionals👍
+## Interessos personals i objectius professionals👍
 
 * **Interesses personals:** Apassionat de la tecnologia, el maquinari informàtic i la resolució de problemes tècnics complexes. Interès constant per estar al dia de les novetats del sector tecnològic.
 
@@ -44,7 +44,7 @@ Actualment no disposo d'experiència laboral prèvia en entorns empresarials, pe
 
 ---
 
-## 6. Informació de contacte o enllaços rellevants
+## Informació de contacte o enllaços rellevants
 
 ### Informació de contacte
 * **📍Ubicació:** Canet de Mar, Barcelona, Espanya
