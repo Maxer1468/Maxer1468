@@ -1,4 +1,7 @@
 # Maxim Slobodyan
+---
+![](/img/Gemini_Generated_Image_4t7grs4t7grs4t7g.png)
+---
 **Estudiant de Sistemes Microinformàtics i Xarxes (SMX)**
 
 ---
@@ -51,4 +54,3 @@ Actualment no disposo d'experiència laboral prèvia en entorns empresarials, pe
 
 
 ```
-=======
